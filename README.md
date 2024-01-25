@@ -48,7 +48,7 @@ poses.
 >In this paper, a new deep learning (DL) and transfer learning method based on VGG-16 is proposed to classify input images into 3 classes. 1) faces with correctly worn masks 2) faces with incorrectly worn masks or partially covered faces and 3) faces without masks. The proposed mask detection method is compared to a standard VGG-16 model to better evaluate its performance.
 >
 >
->### III.	METHODOLOGY
+### III.	METHODOLOGY
 >
 > The classification system used in this paper contains two main modules 1) image preprocessing 2) image classification. The preprocessing module resizes input images into uniform square image inputs. Figure 1 illustrates the overall structure of the classification model which is based on VGG-16. The primary modules of the architecture are discussed below.
 >
